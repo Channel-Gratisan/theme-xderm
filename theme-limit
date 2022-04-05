@@ -1,5 +1,5 @@
 #!/bin/bash
-url=https://raw.githubusercontent.com/Putra-0/theme-xderm-putra/main
+url=https://raw.githubusercontent.com/Channel-Gratisan/install-theme/main
 wget -O /www/xderm/limit.php --no-check-certificate $url/xderm/limit.php
 mkdir /www/xderm/css
 chmod 777 /www/xderm/css
