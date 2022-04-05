@@ -1,5 +1,5 @@
 #!/bin/bash
-url=https://raw.githubusercontent.com/Channel-Gratisan/theme-xderm/main/install-theme
+url=https://raw.githubusercontent.com/Channel-Gratisan/theme-xderm/main
 mkdir /www/xderm/img
 chmod 777 /www/xderm/img
 wget -O /www/xderm/img/ico.png --no-check-certificate $url/xderm/img/ico.png
