@@ -1,5 +1,5 @@
 #!/bin/bash
-url=https://raw.githubusercontent.com/Channel-Gratisan/install-theme/main
+url=https://raw.githubusercontent.com/Channel-Gratisan/theme-xderm/main
 wget -O /www/xderm/limit.php --no-check-certificate $url/xderm/limit.php
 mkdir /www/xderm/css
 chmod 777 /www/xderm/css
